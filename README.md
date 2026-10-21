@@ -6,12 +6,12 @@ This repository was created for the Software Development course to demonstrate G
 
 - Team Members and Roles
 
-Admin : Leen	@LeenAlhossan ( Manage repository settings, team permissions, and pull requests ).
-Write : Aljowharah	@Aljowharah67 ( Create branches, upload files, and contribute changes ).
-Read	: Lujain	@p44jgsdsz9-wq ( View repository files and review project progress ).
-Write	: Tala	@TalaFahad1	( Create branches, upload files, and contribute changes ).
-
-- Repository Permissions
+| Student | GitHub Username | Role | Responsibility |
+|---|---|---|---|
+| Leen | @LeenAlhossan | Admin | Manage repository settings and permissions |
+| Aljowharah | @Aljowharah67 | Write | Upload files and contribute changes |
+| Lujain | @p44jgsdsz9-wq | Read | View repository files and project progress |
+| Tala | @TalaFahad1 | Write | Upload files and contribute changes |
 
 * Admin: Full access to repository management and settings.
 * Write: Permission to contribute and modify repository content.
